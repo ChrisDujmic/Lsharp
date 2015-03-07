@@ -1,3 +1,5 @@
 # Lsharp
 
-My Personal script for L#
+My Personal scripts for L#
+
+All projects in this Repo are released under the CPOL LICENSE 
